@@ -1,4 +1,4 @@
-   # :gem:  &nbsp;  XSS-LOADER TOOLS  &nbsp;  :gem:
+   # :gem:  &nbsp;  XSS-LOADER TOOLS FOR WINDOWS  &nbsp;  :gem:
 
 <img src="https://i.imgur.com/RvwHNfS.png" width="60%"></img>
 
@@ -41,8 +41,8 @@ Instagram: [Hulya Karabag](https://www.instagram.com/tmrswrr/)
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/XSS-LOADER/
-cd XSS-LOADER
+git clone https://github.com/capture0x/XSS-LOADER-for-WINDOWS/
+cd XSS-LOADER-for-WINDOWS
 pip3 install -r requirements.txt
 ```
 
@@ -147,10 +147,10 @@ Results will be saved in "dork.txt" after scanning.
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/XSS-LOADER/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/capture0x/XSS-LOADER-for-WINDOWS/issues) here.
 
 ## Support and Donations
 
-Contact us with email [capture0x@mail.com.tr](mailto:capture0x@mail.com.tr?Subject=XSS-LOADER)
+Contact us with email [capture0x@mail.com.tr](mailto:capture0x@mail.com.tr?Subject=XSS-LOADER-for-WINDOWS)
 
 **Copyright 2020**
