@@ -4,11 +4,11 @@
 
 
 
-#### Written by Hulya Karabag 
+#### Modded by Trhacknon
 #### Version 1.0.0
 All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
-Instagram: [Hulya Karabag](https://www.instagram.com/tmrswrr/)
+Instagram: [trhacknon](https://www.instagram.com/)
 ##  :camera: Screenshots  :camera:
 
 <img src="https://i.imgur.com/mnRkb1b.png" width="32%"></img>
@@ -41,7 +41,7 @@ Instagram: [Hulya Karabag](https://www.instagram.com/tmrswrr/)
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/XSS-LOADER-for-WINDOWS/
+git clone https://github.com/trhacknon/XSS-LOADER-for-WINDOWS/
 cd XSS-LOADER-for-WINDOWS
 pip3 install -r requirements.txt
 ```
@@ -147,10 +147,10 @@ Results will be saved in "dork.txt" after scanning.
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/XSS-LOADER-for-WINDOWS/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/trhacknon/XSS-LOADER-for-WINDOWS/issues) here.
 
 ## Support and Donations
 
-Contact us with email [capture0x@mail.com.tr](mailto:capture0x@mail.com.tr?Subject=XSS-LOADER-for-WINDOWS)
+Contact us with email [trhacknon@mail.com.tr](mailto:trhacknon@mail.com.tr?Subject=XSS-LOADER-for-WINDOWS)
 
 **Copyright 2020**
